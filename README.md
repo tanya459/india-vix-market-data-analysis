@@ -104,7 +104,7 @@ Based on the dashboard analysis:
 - The yearly and monthly analysis helps identify periods of relatively higher and lower market volatility.
 - The volatility heatmap provides a year-by-month view of India VIX behavior.
 
-## 🔄 Project Workflow
+## Project Workflow
 
 ```text
 Raw India VIX Dataset
@@ -126,7 +126,7 @@ Interactive Power BI Dashboard
 Market Volatility Insights
 ```
 
-## 🛠️ Tools & Technologies
+## Tools & Technologies
 
 - Microsoft Power BI
 - Power Query
@@ -139,7 +139,7 @@ Market Volatility Insights
 - Data Visualization
 - Market Data Analytics
 
-## 📂 Project Structure
+## Project Structure
 
 ```text
 IndiaVIX-Market-Data-Analysis/
@@ -165,11 +165,25 @@ IndiaVIX-Market-Data-Analysis/
 └── README.md
 ```
 
-## 🖥️ Dashboard Preview
+## Dashboard Preview
 
-![India VIX Market Volatility Analytics](Dashboard/dashboard.png)
+### 1. Market Overview
 
-## 🚀 How to Use
+![India VIX Market Overview](Dashboard/Dashboards_page-0001.jpg)
+
+### 2. Volatility Deep Dive
+
+![India VIX Volatility Deep Dive](Dashboard/Dashboards_page-0002.jpg)
+
+### 3. Time-Based Market Analysis
+
+![India VIX Time-Based Market Analysis](Dashboard/Dashboards_page-0003.jpg)
+
+### 4. Daily Market Details
+
+![India VIX Daily Market Details](Dashboard/Dashboards_page-0004.jpg)
+
+## How to Use
 
 1. Download or clone this repository.
 2. Open the `.pbix` file from the `PowerBI` folder using Microsoft Power BI Desktop.
